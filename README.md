@@ -40,6 +40,10 @@ I mainly work with Java and Python. My interests include backend development, so
 
 ## Projects
 
+###
+[Orqbit](https://github.com/IvanVenkov712/Orqbit)
+Asynchronous job processing platform with an HTTP API, independent workers, and PostgreSQL-backed coordination. Submit jobs, claim compatible work safely, and track results with authentication and permission-based access. Supports leases, heartbeats and retries.
+
 ### [StratEcho](https://github.com/IvanVenkov712/StratEcho)
 A Python backtesting engine built from scratch, supporting trading strategies, order execution, portfolio accounting, transaction costs, and performance analysis.
 
